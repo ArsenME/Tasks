@@ -235,35 +235,9 @@ public class Main {
 //        System.out.println(a);
 
 
-            //57//
+        
 
 
-//        int a = number%10;
-//
-//        int b = (number /10)%10;
-//
-//        int c = number / 100;
-
-
-//                                                    for(;;){
-//                                                        if(a == 0){
-//                                                            System.out.println("Enter number");
-//                                                             number = scanner.nextInt();
-//
-//                                                        }
-//                                                        else{
-//                                                            if(number > 300){
-//                                                                float result = b/a;
-//                                                                System.out.println(result);
-//                                                            }
-//                                                            else {
-//                                                                float result = c/a;
-//                                                                System.out.println(result);
-//                                                            }
-//
-//
-//                                                        }
-//                                                    }
 
 
 

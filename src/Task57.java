@@ -8,7 +8,7 @@ public class Task57 {
 
         float  a = number%10;
 
-        float b = (number /10)%10;
+        float b = (number /10) % 10;
 
         float c = number / 100;
 

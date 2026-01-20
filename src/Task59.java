@@ -20,12 +20,13 @@ public class Task59 {
                 }
             }
 
-            System.out.print("[");
-            for(int k = 0; k < arr.length; k++){
-                System.out.print(arr[k] + " ");
 
-            }
-            System.out.println("]");
         }
+        System.out.print("[");
+        for(int k = 0; k < arr.length; k++){
+            System.out.print(arr[k] + " ");
+
+        }
+        System.out.println("]");
     }
 }
